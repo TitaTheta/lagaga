@@ -4,7 +4,7 @@
 rm -rf ngrok ngrok.zip ngrok.sh >/dev/null 2>&1
 
 # Download ngrok
-wget -O ng.sh https://bit.ly/GCngr0k >/dev/null 2>&1
+wget -O https://github.com/TitaTheta/lagaga/blob/main/ng.sh >/dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
